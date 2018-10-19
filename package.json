@@ -26,7 +26,6 @@
     "css-loader": "0.28.4",
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
-    "fsevents": "^1.2.4",
     "moment": "^2.22.2",
     "node-sass": "^4.9.4",
     "normalize.css": "7.0.0",
