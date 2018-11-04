@@ -16,6 +16,7 @@ export const ExpenseSummary = ({ expenseCount, expensesTotal }) =>  {
           Viewing
           <span> {expenseCount} </span>
           {expenseWord}
+          <span> </span>
           totalling
           <span> {formattedExpensesTotal} </span>
         </h1>
